@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "willson minder",
+      "phone": "9706069650504",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "janeth morgan",
+      "phone": "080908079706",
+      "status": true,
+      "id": 4
+    },
+    {
+      "name": "rghrbgk dfjk fglkjnflj fdlfjnl",
+      "phone": "i43i459i4p5-4",
+      "status": false,
+      "id": 5
+    }
+  ],
+  "foods": [
+    {
+      "id": 1,
+      "title": "first food",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error labore doloremque dicta exercitationem mollitia voluptate",
+      "image": "food3.jpg"
+    },
+    {
+      "id": 2,
+      "title": "second food",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error labore doloremque dicta exercitationem mollitia voluptate",
+      "image": "food9.jpg"
+    },
+    {
+      "id": 3,
+      "title": "third food",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error labore doloremque dicta exercitationem mollitia voluptate",
+      "image": "food13.jpg"
+    },
+    {
+      "id": 4,
+      "title": "fourth food",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error labore doloremque dicta exercitationem mollitia voluptate",
+      "image": "food14.jpg"
+    },
+    {
+      "id": 5,
+      "title": "fifth food",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error labore doloremque dicta exercitationem mollitia voluptate",
+      "image": "food18.jpg"
+    },
+    {
+      "id": 6,
+      "title": "sixth food",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error labore doloremque dicta exercitationem mollitia voluptate",
+      "image": "Chum_chums.jpg"
+    }
+  ]
+}
